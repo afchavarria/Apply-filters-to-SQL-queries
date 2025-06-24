@@ -1,6 +1,6 @@
 # Apply filters to SQL queries
 ## Project description
-My team was charged with obtaining specific data from employees to analyze any potential security issues and to update computers. This task was done by filtering the required information from the database. First, we filtered to find all failed login attempts after business hours, login attempts on specific dates, and logins that didn't originate in Mexico. We retrieve information about certain employees in the Marketing department, information about employees in the Finance or the Sales department and information about employees who are not in the Information Technology department.
+My team was charged with obtaining specific data from employees to analyze any potential security issues and to update computers. This task was done by filtering the required information from the database. First, we filtered to find all failed login attempts after business hours, login attempts on specific dates, and logins that didn't originate in Mexico. We retrieve information about certain employees in the Marketing department, information about employees in the Finance or the Sales department and information about employees who are not in the Information Technology department. By doing this, we were able to ensure the system is safe, investigate all potential security issues, and update employee computers as needed.
 
 ## Retrieve after hours failed login attempts
  <img width="855" alt="Image" src="https://github.com/user-attachments/assets/92362340-80a5-4f31-a78d-0173530af578" />
